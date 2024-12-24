@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Reading for just six minutes a day can reduce stress by up to 68%, making it more relaxing than listening to music or going for a walk! 📖✨
 - 😎 I am Expert 
 - 🤖 I am ARC AI 
+- 💻 I am Large language Model
